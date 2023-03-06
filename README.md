@@ -16,4 +16,4 @@ I. Links:
    Assignment 3:
           [Program 1](https://github.com/waheedanwar2699/Class_Portfolio/blob/main/program1.cpp)
           and [Program 2](https://github.com/waheedanwar2699/Class_Portfolio/blob/main/program2.cpp)
-          and [Documentation](https://github.com/waheedanwar2699/Class_Portfolio/blob/main/program2.cpp)
+          and [ML Algorithms from Scratch PDF Document](https://github.com/waheedanwar2699/Class_Portfolio/blob/main/ML%20Algorithms%20from%20Scratch.pdf)
