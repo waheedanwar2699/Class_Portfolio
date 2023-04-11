@@ -20,3 +20,6 @@ I. Links:
    
    Assignment 4:
            [Similarity Algorithms Person 2](https://github.com/waheedanwar2699/Class_Portfolio/blob/main/wxa200000_similarity_algorithms.pdf)
+   
+   Assignment 5:
+           [ML with SKLearn](https://github.com/waheedanwar2699/Class_Portfolio/blob/main/ML%20with%20Sklearn.pdf)
