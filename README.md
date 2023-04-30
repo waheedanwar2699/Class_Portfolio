@@ -25,3 +25,5 @@ I. Links:
            [ML with SKLearn](https://github.com/waheedanwar2699/Class_Portfolio/blob/main/ML%20with%20Sklearn.pdf)
            
    Assignment 6: Image Classification with DL (N/A, not complete)
+   
+   Final Assignment: [Wrapping Up Portfolio](https://github.com/waheedanwar2699/Class_Portfolio/blob/main/Wrapping%20Up%20Portfolio)
